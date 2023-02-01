@@ -3,7 +3,7 @@
 
 ### Hi there, I'm CANER. :blush:
 
-<h3 align="center">A passionate blockchain developer from TURKEY</h3>
+<h3 align="center">A passionate blockchain developer</h3>
 
 - 🔭 I’m currently working on **Blockchain , Nodes , Testnets**
 
