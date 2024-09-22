@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized.gif" align="right" width="400" height="300">
 
 
-### Hi there, I'm CANER. :blush:
+### Hi there, I'm Ckaarraa. :blush:
 
 <h3 align="center">A passionate blockchain developer</h3>
 
